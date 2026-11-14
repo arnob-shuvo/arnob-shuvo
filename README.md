@@ -1,6 +1,6 @@
 ## Hi, I'm Shuvo Datta 👋
 
-Computer Science & Engineering undergraduate at **BRAC University**, interested in software engineering, artificial intelligence, and machine learning.
+Computer Science & Engineering undergraduate at **BRAC University**, with interests in Software Engineering, Artificial Intelligence, Machine Learning, and Cybersecurity.
 
 ### 🔬 Research Interests
 
