@@ -12,6 +12,7 @@ Computer Science & Engineering undergraduate at **BRAC University**, with intere
 ### 🤝 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shuvodatta.vercel.app)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Shuvo%20Datta-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=caKM-Q4AAAAJ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shuvodatta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuvodatta/)
 [![GitHub](https://img.shields.io/badge/GitHub-arnob--shuvo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arnob-shuvo)
 [![HackerRank](https://img.shields.io/badge/HackerRank-shuvodatta__me-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/shuvodatta_me)
